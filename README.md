@@ -11,7 +11,9 @@ A curated list of awesome screencasts available around the web.
 
 ## JavaScript
   * [EggHead](https://egghead.io) - Screencasts on major famous javascript frameworks and concepts. 
-  
+  * [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Screencasts on  how to do functional programming in JavaScript.
+  *  [JQuery to Vanilla JavaScript](http://www.frontend.tv/all/) - Screencasts on Vanilla JavaScript
+  *  [JavaScript: Understanding the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts) -  understanding of the language by understanding how it works under the hood.
 ## iOS 
   * [BitFountain](https://www.bitfountain.io/) - Full course on iOS developement including Swift and Sketch. 
   
@@ -29,6 +31,12 @@ A curated list of awesome screencasts available around the web.
 
 ## DevOps
   * [SysAdminCasts](https://sysadmincasts.com/) - Sysadmin Casts - bite-sized sysadmin screencasts (released weekly)
+   
+## CSS Videos
+  * [AtoZ css](http://www.atozcss.com/videos/) - CSS Screencasts for Designers & Developers
+  
+## CSS Videos
+  * [AtoZ css](http://www.atozcss.com/videos/) - CSS Screencasts for Designers & Developers   
 
 ## Misc
 _Sites which offers screencasts for everything_
